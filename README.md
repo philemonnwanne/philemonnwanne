@@ -11,7 +11,7 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - ⚡ Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 📫 How to reach me: philemonnwanne@gmail.com.
-- - 💬 Ask me about my favorite Isekai.
+- 💬 Ask me about my favorite Isekai.
 - 👯 I’m looking to collaborate on OSS.
 
 ---
