@@ -41,7 +41,7 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
 </a>
 <a href="https://altschoolafrica-soe.slack.com/archives/D039TQNH43C">
   <img align="left" alt="Philemon Nwanne Slack" width="21px"
-src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/slack.svg" />
+src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/slack.svg" />
 </a><br/><br/>
 <p align="center">
 
