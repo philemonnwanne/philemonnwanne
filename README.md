@@ -46,5 +46,6 @@ src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b3
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=philemonnwanne&show_icons=true&include_all_commits=true&hide_border=true" alt="Philemon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemonnwanne&langs_count=8&layout=compact&hide_border=true" alt="Philemon's GitHub stats" /> |
 | ------------- | ------------- |
 
-![counter](https://ennjviprh19fs24.m.pipedream.net)
+<!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
+![](https://komarev.com/ghpvc/?username=philemonnwanne&color=orange&label=Profile+Views)
 
