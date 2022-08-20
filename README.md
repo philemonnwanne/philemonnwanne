@@ -19,3 +19,5 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=philemonnwanne&show_icons=true&include_all_commits=true&hide_border=true" alt="Philemon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemonnwanne&langs_count=8&layout=compact&hide_border=true" alt="Philemon's GitHub stats" /> |
 | ------------- | ------------- |
 
+![counter](https://ennjviprh19fs24.m.pipedream.net)
+
