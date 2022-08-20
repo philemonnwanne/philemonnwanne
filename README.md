@@ -25,11 +25,10 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
   <img align="left" alt="Philemon Nwanne Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://altschoolafrica-soe.slack.com/archives/D039TQNH43C">
-  <img align="left" alt="Philemon Nwanne Slack" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/slack.svg" />
+  <img align="left" alt="Philemon Nwanne Slack" width="21px"
+src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/slack.svg" />
 </a><br/><br/>
 <p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
-</p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=philemonnwanne&show_icons=true&include_all_commits=true&hide_border=true" alt="Philemon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemonnwanne&langs_count=8&layout=compact&hide_border=true" alt="Philemon's GitHub stats" /> |
 | ------------- | ------------- |
