@@ -8,6 +8,7 @@
 I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passionate about sharing knowledge.
 </samp>
 
+<!-- ABOUT ME: START -->
 ### Here's a bit of me:
 
 <samp>
@@ -28,7 +29,9 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
 <samp>
 - 👯 I’m looking to collaborate on OSS.
 </samp>
+<!-- ABOUT ME: END -->
 
+<!-- SOCIAL ICONS: START -->
 ### Connect with me :smiley:
 <a href="https://twitter.com/philemonnwanne">
   <img align="left" alt="Philemon Nwanne Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
@@ -43,11 +46,12 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
   <img align="left" alt="Philemon Nwanne Slack" width="21px"
 src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/slack.svg" />
 </a><br/><br/>
-<p align="center">
+<!-- SOCIAL ICONS: END -->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=philemonnwanne&show_icons=true&include_all_commits=true&hide_border=true" alt="Philemon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemonnwanne&langs_count=8&layout=compact&hide_border=true" alt="Philemon's GitHub stats" /> |
 | ------------- | ------------- |
 
 <!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
-![](https://komarev.com/ghpvc/?username=philemonnwanne&color=orange&label=Profile+Views)
+> You're visitor<br>
+![](https://komarev.com/ghpvc/?username=philemonnwanne&color=orange&label=⌗)
 
