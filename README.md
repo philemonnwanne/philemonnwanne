@@ -17,9 +17,9 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
 <samp>
 - 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
 </samp><br>
-<samp>
+<!-- <samp>
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-</samp><br>
+</samp><br> -->
 <samp>
 - 📫 How to reach me: philemonnwanne@gmail.com.
 </samp><br>
