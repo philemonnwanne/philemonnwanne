@@ -7,13 +7,13 @@ I'm a Software Engineer, and currently a student at AltSchool Africa. I'm passio
 </samp>
 
 <!-- ABOUT ME: START -->
-### Here's a bit of me:
+### Here's a **bit** of me:
 
 <samp>
-- 🌱 I’m currently learning learning JavaScript, Cloud, and DevOps.
+- 🌱 I’m currently learning learning Python, JavaScript, Cloud, and DevOps.
 </samp><br>
 <samp>
-- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer or DevOps Engineer.
 </samp><br>
 <!-- <samp>
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
