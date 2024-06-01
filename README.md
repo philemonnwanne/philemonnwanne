@@ -13,7 +13,7 @@ I'm a DevOps Engineer and currently an AI enthusiast.
 </samp><br>
 
 <samp>
-- 💼 JobInterests: DevOps | SRE | Platform | Cloud Engineer
+- 💼 JobInterests: DevOps | SRE | Platform | Infrastructure | Cloud Engineer
 </samp><br>
 
 <samp>
